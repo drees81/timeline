@@ -1,0 +1,563 @@
+[
+		{
+		"id":"presidents",
+            
+		"title":"Presidential Bands",
+		"description":"Presidents in various countries.",
+            
+		"focus_date":"1950",
+		"initial_zoom":"47",
+            
+		"lanes":[
+			{"id":"french", "title":"French Presidents", "color":"#7d9c1d", "top":50},
+			{"id":"american", "title":"American Presidents", "color":"#223da0", "top":100},
+			{"id":"german", "title":"German Chancellors", "color":"#bc0000", "top":150},
+            {"id":"uk", "title":"Great Britain", "color":"#332299", "top":200},
+
+            {"id":"eu", "title":"EU", "color":"#332299", "top":300},
+            {"id":"war", "title":"Kriege", "color":"#332299", "top":400}
+		],
+            
+		"events" : [
+		                        {
+                "id":"euro",
+                "title": "Euro-Einführung",
+                "description":"",
+                "startdate": "2002-01-01",
+				"low_threshold": "1",
+				"high_threshold":"100",
+                "importance":"53",
+                "icon":"circle_blue.png",
+                "date_display":"ye",
+				"lane":"eu"			
+            },
+            
+                                    {
+                "id":"2wk",
+                "title": "Zweiter  Weltkrieg",
+                "description":"",
+                "startdate": "1939",
+                "enddate": "1945",
+				"low_threshold": "1",
+				"high_threshold":"100",
+                "importance":"53",
+                "date_display":"ye",
+                "link":"https://de.wikipedia.org/wiki/Vertrag_von_Maastricht",
+				"lane":"war"			
+            },
+                                    {
+                "id":"1wk",
+                "title": "Erster Weltkrieg",
+                "description":"",
+                "startdate": "1914-08-01",
+                "enddate": "1918-08-01",
+				"low_threshold": "1",
+				"high_threshold":"100",
+                "importance":"53",
+                "date_display":"ye",
+                "link":"https://de.wikipedia.org/wiki/Vertrag_von_Maastricht",
+				"lane":"war"			
+            },
+                        {
+                "id":"Maastricht",
+                "title": "Vertrag von Maastricht",
+                "description":"",
+                "startdate": "1992-02-07 12:00:00",
+				"low_threshold": "1",
+				"high_threshold":"100",
+                "importance":"53",
+                "date_display":"ye",
+                "link":"https://de.wikipedia.org/wiki/Vertrag_von_Maastricht",
+                "icon":"circle_blue.png",
+				"lane":"eu"			
+            },
+            
+            {
+                "id":"brexit",
+                "title": "Brexit Referendum",
+                "description":"",
+                "startdate": "2016-06-23",
+				"low_threshold": "1",
+				"high_threshold":"100",
+                "importance":"53",
+                "date_display":"da",
+                "link":"https://de.wikipedia.org/wiki/EU-Austritt_des_Vereinigten_K%C3%B6nigreichs",
+                "icon":"circle_black.png",
+				"lane":"eu"			
+            },
+            
+			{
+				"id":            "thatcher",
+				"title":         "Margaret Thatcher",
+				"startdate":     "1975",
+				"enddate":       "1990",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#78a7e6",
+				"lane":"uk"			
+			},
+
+            {
+				"id":            "Fillmore",
+				"title":         "Millard Fillmore",
+				"startdate":     "1850-07-09",
+				"enddate":       "1853-03-04",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#78a7e6",
+				"lane":"american"			
+			},
+            {
+				"id":            "truman",
+				"title":         "Harry S. Truman",
+				"startdate":     "1945-04-12",
+				"enddate":       "1953-01-20",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#78a7e6",
+				"lane":"american"			
+			},
+
+			{
+				"id":            "Eisenhower",
+				"title":         "Dwight D. Eisenhower",
+				"startdate":     "1953-01-20",
+				"enddate":       "1961-01-20",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#9ebce5",
+				"lane":"american"			
+			},
+			{
+				"id":            "jfk",
+				"title":         "John F. Kennedy",
+				"startdate":     "1961-01-20",
+				"enddate":       "1963-11-22",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#78a7e6",
+				"lane":"american"			
+			},
+			
+			
+			{
+				"id":            "lyndonbjohnson",
+				"title":         "Lyndon B. Johnson",
+				"startdate":     "1963-11-22",
+				"enddate":       "1969-01-20 14:54",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#9ebce5",
+				"lane":"american"			
+			},
+			
+			
+			{
+				"id":            "133697_nixon",
+				"title":         "Richard M. Nixon",
+				"startdate":     "1969-01-20",
+				"enddate":       "1974-08-09 14:54",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#78a7e6",
+				"lane":"american"			
+			},
+			
+			
+			{
+				"id":            "Auriol",
+				"title":         "Vincent Auriol",
+				"startdate":     "1947-01-16",
+				"enddate":       "1954-01-16",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#cac95f",
+				"lane":"french"			
+			},
+				
+				
+				
+			{
+				"id":            "renecoty",
+				"title":         "Rene Coty",
+				"startdate":     "1954-01-16",
+				"enddate":       "1959-01-08",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#e2da80",
+				"lane":"french"			
+			},
+					
+			{
+				"id":            "degaulle",
+				"title":         "Charles de Gaulle",
+				"startdate":     "1959-01-08 14:54",
+				"enddate":       "1981-04-01 14:54",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#cac95f",
+				"lane":"french"			
+			},
+			
+			{
+				"id":            "poher",
+				"title":         "Alain Poher",
+				"startdate":     "1974-04-02 14:54",
+				"enddate":       "1981-05-27 14:54",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#e2da80",
+				"lane":"french"			
+			},
+			
+			{
+				"id":            "1336976",
+				"title":         "Val̩ry Giscard d'Estaing",
+				"startdate":     "1974-05-27 14:54",
+				"enddate":       "1981-05-15 14:54",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"span_color":"#cac95f",
+				"lane":"french"			
+			},
+			{
+				"id":            "1336977",
+				"title":         "Gerald Ford",
+				"startdate":     "1974-08-09 14:53",
+				"enddate":       "1977-08-09 14:53",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color":"#9ebce5"				
+			},
+			{
+				"id":            "1336971",
+				"title":         "Jimmy Carter",
+				"startdate":     "1977-01-20 08:14",
+				"enddate":       "1981-01-20 08:14",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color": "#78a7e6"	
+			},
+			{
+				"id":            "1336975",
+				"title":         "Francois Mitterrand",
+				"startdate":     "1981-05-16 00:56",
+				"enddate":       "1995-05-16 00:56",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"french",
+				"span_color":"#e2da80"
+			},
+			{
+				"id":            "1336966",
+				"title":         "Ronald Reagan",
+				"startdate":     "1981-01-20 17:00",
+				"enddate":       "1989-01-20 07:50",
+				"description":   "<p></p>",
+				"date_display":  "ye",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color":"#9ebce5"			
+			},
+			{
+				"id":            "1336967",
+				"title":         "George H. W. Bush",
+				"startdate":     "1989-01-20 17:14",
+				"enddate":       "1993-01-20 17:14",
+				"description":   "<p></p>",
+				"date_display":  "ye",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color": "#78a7e6"		
+			},
+			{
+				"id":            "1336968",
+				"title":         "Bill Clinton",
+				"startdate":     "1993-01-20 17:30",
+				"enddate":       "2001-01-20 17:30",
+				"description":   "<p></p>",
+				"date_display":  "ye",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color":"#9ebce5"			
+			},
+			{
+				"id":            "1336974",
+				"title":         "Jacques Chirac",
+				"startdate":     "1995-05-16 04:57",
+				"enddate":       "2007-05-16 04:57",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"french",
+				"span_color":"#cac95f"	
+			},
+			{
+				"id":            "1336969",
+				"title":         "George W. Bush",
+				"startdate":     "2001-01-20 13:19",
+				"enddate":       "2009-01-20 13:19",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color": "#78a7e6"	
+			},
+			{
+				"id":            "1336973",
+				"title":         "Nicolas Sarkozy",
+				"startdate":     "2007-05-15 18:58",
+				"enddate":       "2012-05-15 18:58",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"french",
+				"span_color":"#e2da80"			
+			},
+			{
+				"id":            "1336970",
+				"title":         "Barack Obama",
+				"startdate":     "2009-01-20 23:04",
+				"enddate":       "today",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"american",
+				"span_color":"#9ebce5"				
+			},
+			{
+				"id":            "1336972",
+				"title":         "Francois Hollande",
+				"startdate":     "2012-05-15 06:59",
+				"enddate":       "today",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"french",
+				"span_color":"#cac95f"	
+			},
+			
+			{
+				"id":            "angelamerkel",
+				"title":         "Angela Merkel",
+				"startdate":     "2005-11-22 06:59",
+				"enddate":       "today",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#e76464"	
+			},
+			
+			{
+				"id":            "gerhardschroder",
+				"title":         "Gerhard Schr&#246;der",
+				"startdate":     "1998-10-27 06:59",
+				"enddate":       "2005-11-22 06:59",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#cc8585"	
+			},
+			{
+				"id":            "helmutkohl",
+				"title":         "Helmut Kohl",
+				"startdate":     "1982-10-04 06:59",
+				"enddate":       "1998-10-27 06:59",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#e76464"	
+			},
+			{
+				"id":            "helmutschmidt",
+				"title":         "Helmut Schmidt",
+				"startdate":     "1974-05-16",
+				"enddate":       "1982-10-04",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#cc8585"	
+			},
+			{
+				"id":            "walterscheel",
+				"title":         "Walter Scheel",
+				"startdate":     "1974-05-07",
+				"enddate":       "1974-05-16",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#e76464"	
+			},
+			{
+				"id":            "willlybrandt",
+				"title":         "Willy Brandt",
+				"startdate":     "1969-10-22",
+				"enddate":       "1974-05-07",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#cc8585"	
+			},
+			{
+				"id":            "Kiesinger",
+				"title":         "Kurt Georg Kiesinger",
+				"startdate":     "1966-12-01",
+				"enddate":       "1969-10-22",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#e76464"	
+			}
+			
+			,
+			{
+				"id":            "Erhard",
+				"title":         "Ludwig Erhard",
+				"startdate":     "1963-10-17",
+				"enddate":       "1966-12-01",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#cc8585"	
+			}
+			,
+			{
+				"id":            "Adenauer",
+				"title":         "Konrad Adenauer",
+				"startdate":     "1949-09-20",
+				"enddate":       "1963-10-17",
+				"description":   "<p></p>",
+				"date_display":  "da",
+				"icon":          "",
+				"low_threshold": "1",
+				"high_threshold":"100",
+				"importance":    "48",
+				"lane":"german",
+				"span_color":"#e76464"	
+			}
+			
+			
+			
+			
+			
+			]
+		
+		}]
