@@ -5,6 +5,9 @@ Interactive graphical presentation of events and eras
 ## data-store 
 REST service to access and create data
 
+## converter
+data converter 
+
 ## editor
 data editor
 
