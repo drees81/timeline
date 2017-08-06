@@ -1,0 +1,98 @@
+{
+    "header": {
+        "id": "hos-us",
+
+        "title":  "US-Presidents",
+        "description": "Presidents of the United States",
+        "link": "https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+    {
+        "title": "Millard Fillmore"
+        , "startdate": "1850-07-09"
+        , "enddate": "1853-03-04"
+    },
+
+    {
+        "title": "Harry S. Truman"
+        , "startdate": "1945-04-12"
+        , "enddate": "1953-01-20"
+	},
+
+    {
+        "title": "Dwight D. Eisenhower"
+        , "startdate": "1953-01-20"
+        , "enddate": "1961-01-20"
+	},
+
+    {
+        "title": "John F. Kennedy"
+        , "startdate": "1961-01-20"
+        , "enddate": "1963-11-22"
+	},
+
+    {
+        "title": "Lyndon B. Johnson"
+        , "startdate": "1963-11-22"
+        , "enddate": "1969-01-20 14:54"
+    },
+
+    {
+        "title": "Richard M. Nixon"
+        , "startdate": "1969-01-20"
+        , "enddate": "1974-08-09 14:54"
+    },
+
+    {
+        "title": "Gerald Ford"
+        , "startdate": "1974-08-09 14:53"
+        , "enddate": "1977-08-09 14:53"
+    },
+
+    {
+        "title": "Jimmy Carter"
+        , "startdate": "1977-01-20 08:14"
+        , "enddate": "1981-01-20 08:14"
+    },
+
+    {
+        "title": "Ronald Reagan"
+        , "startdate": "1981-01-20 17:00"
+        , "enddate": "1989-01-20 07:50"
+    },
+    
+    {
+        "title": "George H. W. Bush"
+        , "startdate": "1989-01-20 17:14"
+        , "enddate": "1993-01-20 17:14"
+    },
+    
+    {
+        "title": "Bill Clinton"
+        , "startdate": "1993-01-20 17:30"
+        , "enddate": "2001-01-20 17:30"
+    },
+    
+    {
+        "title": "George W. Bush"
+        , "startdate": "2001-01-20 13:19"
+        , "enddate": "2009-01-20 13:19"
+    },
+    
+    {
+        "title": "Barack Obama"
+        , "startdate": "2009-01-20 23:04"
+        , "enddate": "2017-01-20"
+    },
+
+    {
+        "title": "Donald Trump"
+        , "startdate": "2017-01-20"
+        , "enddate": "today"
+    }
+
+]
+}

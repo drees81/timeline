@@ -1,0 +1,12 @@
+{
+    "sources": [
+        "us-presidents",
+        "uk-primeministers",
+        "eu-events",
+        "rus-hos",
+        "wars",
+        "de-states",
+        "de-chanellors",
+        "de-presidents"
+    ]
+}

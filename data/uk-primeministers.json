@@ -1,0 +1,176 @@
+{
+    "header": {
+        "id": "hos-uk",
+
+        "title":  "UK Prime Ministers",
+        "description": "Prime Minister of the United Kingdom",
+		"link" : "https://de.wikipedia.org/wiki/Liste_der_britischen_Premierminister",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+    {
+        "title": "Arthur Balfour",
+        "startdate": "1902-07-11",
+        "enddate": "1905-12-05"
+    },
+
+    {
+        "title": "Henry Campbell-Bannerman",
+        "startdate": "1905-12-10",
+        "enddate": "1908-04-03"
+    },
+
+    {
+        "title": "Herbert Henry Asquith",
+        "startdate": "1908-04-06",
+        "enddate": "1916-12-05"
+    },
+
+    {
+        "title": "David Lloyd George",
+        "startdate": "1916-12-10",
+        "enddate": "1922-10-19"
+    },
+
+    {
+        "title": "Andrew Bonar Law",
+        "startdate": "1922-10-24",
+        "enddate": "1923-05-20"
+    },
+
+    {
+        "title": "Stanley Baldwin",
+        "startdate": "1923-05-22",
+        "enddate": "1924-01-23"
+    },
+
+    {
+        "title": "Ramsay MacDonald",
+        "startdate": "1924-01-23",
+        "enddate": "1924-11-04"
+    },
+
+    {
+        "title": "Stanley Baldwin",
+        "startdate": "1924-11-06",
+        "enddate": "1929-06-04"
+    },
+
+    {
+        "title": "Ramsay MacDonald",
+        "startdate": "1929-06-08",
+        "enddate": "1935-06-07"
+    },
+
+    {
+        "title": "Stanley Baldwin",
+        "startdate": "1935-06-07",
+        "enddate": "1937-05-28"
+    },
+
+    {
+        "title": "Neville Chamberlain",
+        "startdate": "1937-05-28",
+        "enddate": "1940-05-10"
+    },
+
+    {
+        "title": "Winston Churchill",
+        "startdate": "1940-05-10",
+        "enddate": "1945-07-26"
+    },
+
+    {
+        "title": "Clement Attlee",
+        "startdate": "1945-07-27",
+        "enddate": "1951-10-27"
+    },
+
+    {
+        "title": "Winston Churchill",
+        "startdate": "1951-10-27",
+        "enddate": "1955-04-05"
+    },
+
+    {
+        "title": "Anthony Eden",
+        "startdate": "1955-04-06",
+        "enddate": "1957-01-09"
+    },
+
+    {
+        "title": "Harold Macmillan",
+        "startdate": "1957-01-10",
+        "enddate": "1963-10-19"
+    },
+
+    {
+        "title": "Sir Alec Douglas-Home",
+        "startdate": "1963-10-19",
+        "enddate": "1964-10-16"
+    },
+
+    {
+        "title": "Harold Wilson",
+        "startdate": "1964-10-16",
+        "enddate": "1970-06-19"
+    },
+
+    {
+        "title": "Edward Heath",
+        "startdate": "1970-06-23",
+        "enddate": "1974-05-04"
+    },
+
+    {
+        "title": "Harold Wilson",
+        "startdate": "1974-05-04",
+        "enddate": "1976-04-05"
+    },
+
+    {
+        "title": "James Callaghan",
+        "startdate": "1976-04-05",
+        "enddate": "1979-05-04"
+    },
+
+    {
+        "title": "Margaret Thatcher",
+        "startdate": "1979-05-04",
+        "enddate": "1990-11-22"
+	},
+
+    {
+        "title": "John Major",
+        "startdate": "1990-11-28",
+        "enddate": "1997-05-02"
+    },
+
+    {
+        "title": "Tony Blair",
+        "startdate": "1997-05-02",
+        "enddate": "2007-06-27"
+    },
+
+    {
+        "title": "Gordon Brown",
+        "startdate": "2007-06-27",
+        "enddate": "2010-05-11"
+    },
+
+    {
+        "title": "David Cameron",
+        "startdate": "2010-05-11",
+        "enddate": "2016-07-13"
+    },
+
+    {
+        "title": "Theresa May",
+        "startdate": "2016-07-13",
+        "enddate": "today"
+    }
+]
+}

@@ -1,0 +1,40 @@
+{
+    "header": {
+        "id": "de-states",
+
+        "title":  "Deutsche Staaten",
+        "description": "Deutsche Staaten",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+    {
+        "title": "Deutsches Kaiserreich",
+        "startdate": "1871",
+        "enddate": "1918"
+    },  
+    {
+        "title": "Weimarer Republik",
+        "startdate": "1918",
+        "enddate": "1933"
+    },  
+    {
+        "title": "Deutsches Reich",
+        "startdate": "1933",
+        "enddate": "1945"
+    },  
+    {
+        "title": "BRD / DDR",
+        "startdate": "1949",
+        "enddate": "1990"
+    },  
+    {
+        "title": "Vereinigtes Deutschland",
+        "startdate": "1990",
+        "enddate": "today"
+    }  
+   
+    ]
+}

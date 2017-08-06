@@ -1,0 +1,76 @@
+{
+    "header": {
+        "id": "hos-de",
+
+        "title":  "Deutsche Präsidenten",
+        "description": "Deutsche Präsidenten",
+        "link": "https://de.wikipedia.org/wiki/Bundespr%C3%A4sident_(Deutschland)",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+        	{
+				"title":         "Frank-Walter Steinmeier",
+				"startdate":     "2017-03-19",
+				"enddate":       "today"
+			},
+        	{
+				"title":         "Joachim Gauck",
+				"startdate":     "2012-03-18",
+				"enddate":       "2017-03-18"
+			},
+        	{
+				"title":         "Christian Wulff",
+				"startdate":     "2010-06-30",
+				"enddate":       "2012-05-31"
+			},
+        	{
+				"title":         "Horst Köhler",
+				"startdate":     "2004-07-01",
+				"enddate":       "2010-05-31"
+			},
+        	{
+				"title":         "Johannes Rau",
+				"startdate":     "1999-07-01",
+				"enddate":       "2004-06-30"
+			},
+        	{
+				"title":         "Roman Herzog",
+				"startdate":     "1994-07-01",
+				"enddate":       "1999-06-30"
+			},
+        	{
+				"title":         "Richard von Weizsacker",
+				"startdate":     "1984-07-01",
+				"enddate":       "1994-06-30"
+			},
+        	{
+				"title":         "Karl Carstens",
+				"startdate":     "1979-07-01",
+				"enddate":       "1984-06-30"
+			},
+        	{
+				"title":         "Walter Scheel",
+				"startdate":     "1974-07-01",
+				"enddate":       "1979-06-30"
+			},
+        	{
+				"title":         "Gustav Heinemann",
+				"startdate":     "1969-07-01",
+				"enddate":       "1974-06-30"
+			},
+        	{
+				"title":         "Heinrich Lübke",
+				"startdate":     "1959-09-13",
+				"enddate":       "1969-06-30"
+			},
+        	{
+				"title":         "Theodor Heuss",
+				"startdate":     "1949-09-12",
+				"enddate":       "1959-09-12"
+			}
+		
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "header": {
+        "id": "hos-de",
+
+        "title":  "Deutsche Regierungschefs",
+        "description": "Regierungschefs von Deutschland",
+        "link": "https://de.wikipedia.org/wiki/Liste_der_Regierungschefs_von_Deutschland",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+        	{
+				"title":         "Angela Merkel",
+				"startdate":     "2005-11-22 06:59",
+				"enddate":       "today"
+			},
+			
+			{
+				"title":         "Gerhard Schr&#246;der",
+				"startdate":     "1998-10-27 06:59",
+				"enddate":       "2005-11-22 06:59"
+			},
+
+			{
+				"title":         "Helmut Kohl",
+				"startdate":     "1982-10-04 06:59",
+				"enddate":       "1998-10-27 06:59"
+			},
+			{
+				"title":         "Helmut Schmidt",
+				"startdate":     "1974-05-16",
+				"enddate":       "1982-10-04"
+			},
+
+			{
+				"title":         "Walter Scheel",
+				"startdate":     "1974-05-07",
+				"enddate":       "1974-05-16",
+                "description":   "nur als geschäftsführender Bundeskanzler"
+			},
+
+			{
+				"title":         "Willy Brandt",
+				"startdate":     "1969-10-22",
+				"enddate":       "1974-05-07"
+			},
+            
+			{
+				"title":         "Kurt Georg Kiesinger",
+				"startdate":     "1966-12-01",
+				"enddate":       "1969-10-22"
+			},
+
+			{
+				"title":         "Ludwig Erhard",
+				"startdate":     "1963-10-17",
+				"enddate":       "1966-12-01"
+			},
+
+			{
+				"title":         "Konrad Adenauer",
+				"startdate":     "1949-09-20",
+				"enddate":       "1963-10-17"
+			}
+    ]
+}

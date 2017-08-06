@@ -1,0 +1,79 @@
+{
+    "header": {
+        "id": "wars",
+
+        "title":  "Kriege",
+        "description": "Kriege",
+        "link":"https://de.wikipedia.org/wiki/Liste_von_Kriegen",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+    {
+        "title": "Dreißigjähriger Krieg",
+        "startdate": "1618",
+        "enddate": "1648"
+    },    
+    {
+        "title": "Deutsch-Französischer Krieg",
+        "startdate": "1870",
+        "enddate": "1871"
+    },
+    {
+        "title": "Erster Weltkrieg",
+        "startdate": "1914",
+        "enddate": "1918"
+    },
+    {
+        "title": "Zweiter Weltkrieg",
+        "startdate": "1939",
+        "enddate": "1945"
+    },
+    {
+        "title": "Vietnam",
+        "startdate": "1957",
+        "enddate": "1975"
+    },    {
+        "title": "Sechstagekrieg",
+        "startdate": "1967",
+        "enddate": "1967"
+    },
+    {
+        "title": "Korea",
+        "startdate": "1950",
+        "enddate": "1953"
+    },
+    {
+        "title": "Afghanischer Bürgerkrieg und sowjetische Intervention",
+        "startdate": "1978",
+        "enddate": "1989"
+    },
+    {
+        "title": "Falkland",
+        "startdate": "1982",
+        "enddate": "1982"
+    },
+    {
+        "title": "Jugoslawienkriege",
+        "startdate": "1991",
+        "enddate": "2001"
+    },
+    {
+        "title": "Erster Golfkrieg (Iran-Irak)",
+        "startdate": "1980",
+        "enddate": "1988"
+    },
+    {
+        "title": "US-Invasion in Panama",
+        "startdate": "1989",
+        "enddate": "1989"
+    },
+    {
+        "title": "Zweiter Golfkrieg (UN-Koalition-Irak)",
+        "startdate": "1990",
+        "enddate": "1991"
+    }   
+    ]
+}

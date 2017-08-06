@@ -1,0 +1,49 @@
+{
+    "header": {
+        "id": "rus-hos",
+
+        "title":  "Parteiführer der KPdSU",
+        "description": "Parteiführer der KPdSU",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+    {
+        "title": "Michail Gorbatschow",
+        "startdate": "1985-03-11",
+        "enddate": "1991-12-25"
+    },
+    {
+        "title": "Konstantin Tschernenko",
+        "startdate": "1984-02-10",
+        "enddate": "1985-03-10"
+    },
+    {
+        "title": "Juri Andropow",
+        "startdate": "1982-11-12",
+        "enddate": "1984-02-09"
+    },
+    {
+        "title": "Leonid Breschnew",
+        "startdate": "1964",
+        "enddate": "1982-11-10"
+    },
+    {
+        "title": "Nikita Chruschtschow",
+        "startdate": "1953",
+        "enddate": "1964"
+    },
+    {
+        "title": "Josef Stalin",
+        "startdate": "1922",
+        "enddate": "1953"
+    },
+    {
+        "title": "Wladimir Illjitsch Lenin",
+        "startdate": "1912",
+        "enddate": "1924"
+    }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "header": {
+        "id": "eu-events",
+
+        "title":  "EU - Ereignisse",
+        "description": "EU Ereignisse",
+        
+        "colors": [ "#9ebce5", "#78a7e6"]
+    },
+	
+	"events": [
+
+    {
+        "title": "Einführung Euro (Bargeld)",
+        "startdate": "2002-01-01",
+        "link":"https://de.wikipedia.org/wiki/Euro"
+    },  
+    {
+        "title": "Verträge von Maastricht",
+        "startdate": "1992-02-07",
+        "link": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union#Vertrag_von_Maastricht_.281992.29"
+    },  
+    {
+        "title": "Vertrag von Lisabonn",
+        "startdate": "2007-12-13",
+        "link": "https://de.wikipedia.org/wiki/Vertrag_von_Lissabon"
+    },  
+    {
+        "title": "Römische Verträge",
+        "startdate": "1957-03-25",
+        "link": "https://de.wikipedia.org/wiki/R%C3%B6mische_Vertr%C3%A4ge"
+    },  
+    {
+        "title": "Schengener Abkommen",
+        "startdate": "1985-06-14",
+        "link": "https://de.wikipedia.org/wiki/Schengener_Abkommen"
+    },  
+    {
+        "title": "Brexit Votum",
+        "startdate": "2016-06-23",
+        "link":"https://de.wikipedia.org/wiki/EU-Austritt_des_Vereinigten_K%C3%B6nigreichs"
+    }  
+   
+    ]
+}
